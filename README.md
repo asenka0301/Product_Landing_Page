@@ -15,5 +15,5 @@
 14. Product landing page should have at least one media query.
 15. Product landing page should utilize CSS flexbox at least once.
 
-Link to working project on *codepen.io* - 
+Link to working project on *codepen.io* - [https://codepen.io/asenka0301/pen/KKMVKJr](https://codepen.io/asenka0301/pen/KKMVKJr).
 
